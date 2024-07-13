@@ -24,7 +24,7 @@
 
 #### The project uses ReactJS as the main framework and TailwindCSS for frontend ,NodeJS for backend . MongoDB is used as the main database, for storing all the user, mechanic and Chat information.
 
-##Contributors:
+## Contributors:
 * Anubhav Pandey
 * Gurmehar Singh
 * Gaurav Gupta
